@@ -1,0 +1,8 @@
+- type: species
+  id: Harpy
+  name: species-name-harpy
+  roundStart: true
+  prototype: MobHarpy
+  dollPrototype: AppearanceHarpy
+  skinColoration: HumanToned
+  baseScale: 0.95, 0.95
