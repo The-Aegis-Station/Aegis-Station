@@ -35,6 +35,8 @@ namespace Content.Shared.Humanoid
         StencilMask,
         Ensnare,
         Fire,
+        LArmExtension, // for harpy wings
+        RArmExtension, // for harpy wings
 
     }
 }

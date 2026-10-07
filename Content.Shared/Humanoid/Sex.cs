@@ -7,4 +7,7 @@ namespace Content.Shared.Humanoid
         Female,
         Unsexed,
     }
+
+    [ByRefEvent]
+    public record struct SexChangedEvent(Sex OldSex, Sex NewSex);
 }
